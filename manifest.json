@@ -1,0 +1,18 @@
+
+{
+  "name": "DentaFollow Ai",
+  "short_name": "DentaFollow",
+  "description": "Generate professional personalized follow-up messages for dental patients.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
